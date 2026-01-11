@@ -20,7 +20,7 @@
 
 - Obecně mám rád věci, u kterých si popřemýšlím, ne jen něco. Na co se kouknu (nebo si poslechnu) a hned to vypustím z hlavy. Převážně píšu v Angličtině, ale České věci píšu v Češtině. 
 
-Myslím si, že mi to pomohlo vnímat věci více než povrchně. Taky bych řekl, že mi to zlepšilo slovní zásobu. A hlavně taky nějakým způsobem myslet sám za sebe, a nedělat si na nic názor bez toho, abych o tom nevěděl něco více. Nezamyslel se nad tím více
+- Myslím si, že mi to pomohlo vnímat věci více než povrchně. Taky bych řekl, že mi to zlepšilo slovní zásobu. A hlavně taky nějakým způsobem myslet sám za sebe, a nedělat si na nic názor bez toho, abych o tom nevěděl něco více. Nezamyslel se nad tím více
 
 ## Hudba
 
@@ -30,9 +30,10 @@ Zlomový bod v hudbě (a v tom jak ji vnímám) byla kapela Tool. Která mi roz�
 
 ## hudební nástroje
 
- Dřive jsem se učil na bicí. Vždy mě fascinovaly perkuse. Rytmika. A obecně mám rád písničky, kde jsou perkuse jako dominatní hudební nástroj.
+ - Dřive jsem se učil na bicí. Vždy mě fascinovaly perkuse. Rytmika. A obecně mám rád písničky, kde jsou perkuse jako dominatní hudební nástroj.
 
- Na bicí už nehraji. A momentálně se učím na elektrickou basu. Velice mě baví koukat na hudbu i z tohoto hlediska. A ne
+ - Na bicí už nehraji. A momentálně se učím na elektrickou basu. Velice mě baví koukat na hudbu i z tohoto hlediska. A je to něco nového. Nikdy mě moc nebavila ortodoxní metoda typu "Nauč se noty."
+
 
 ## videa
 
@@ -42,4 +43,8 @@ Zlomový bod v hudbě (a v tom jak ji vnímám) byla kapela Tool. Která mi roz�
 
 ## programování
 
-- 
+- Před pár měsící jsem se začal učit síťování a linux. Velice mě tento operační systém zaujal.
+- udělal jsem si také nějaké skripty v bashi, jako na nastavování serveru se statickou IP adresou
+
+- Také jsem se účastnil Linux hackdays. A utvrdilo mě ještě více, že na vaší škole chci studovat. A rozvíjet se.
+
