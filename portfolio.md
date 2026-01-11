@@ -9,7 +9,7 @@
 
 ## Speedcubing
 
-- Toto hobby mě poprvé zaujalo cca 4 roky zpátky. Rubikovu kostku každý zná, každy ji jednou zkusil skládat. Já jsem se naučil tuto kostku skládat za jeden večer podle jednoho videa. Pár dní jsem to skládal dokola. A potom jsem chtěl jít hlouběji. Chtěl jsem se naučit skládát tuto kostku rychle. Což  znamenalo naučit se algoritmy, jiné metody, apod. Dneska skládám okolo 12 vteřin. A byl jsem taky na pár turnajích, jak neoficiálních, tak oficiálních. Oficiální turnaje se zapisují do databáze zvané [wca](https://www.worldcubeassociation.org/persons/2023VOKA01)
+- Toto hobby mě poprvé zaujalo cca 4 roky zpátky. Rubikovu kostku každý zná, každy ji jednou zkusil skládat. Já jsem se naučil tuto kostku skládat za jeden večer podle jednoho videa. Pár dní jsem to skládal dokola. A potom jsem chtěl jít hlouběji. Chtěl jsem se naučit skládát tuto kostku rychle. Což  znamenalo naučit se algoritmy, jiné metody, apod. Dneska skládám okolo 12 vteřin. A byl jsem taky na pár turnajích, jak neoficiálních, tak oficiálních. Oficiální turnaje se zapisují do databáze zvané [WCA](https://www.worldcubeassociation.org/persons/2023VOKA01)
 
 
 - Co mě tohle hobby naučilo? Kritické myšlení. Když mám něco velkého, tak si to nějak rozkouskovat na menší části. A také myšlení pod tlakem.
@@ -21,12 +21,13 @@
 - Obecně mám rád věci, u kterých si popřemýšlím, ne jen něco. Na co se kouknu (nebo si poslechnu) a hned to vypustím z hlavy. Převážně píšu v Angličtině, ale České věci píšu v Češtině. 
 
 - Myslím si, že mi to pomohlo vnímat věci více než povrchně. Taky bych řekl, že mi to zlepšilo slovní zásobu. A hlavně taky nějakým způsobem myslet sám za sebe, a nedělat si na nic názor bez toho, abych o tom nevěděl něco více. Nezamyslel se nad tím více
+(Profily, kde zveřejňuji své recenze: [Letterboxd](https://letterboxd.com/wocisjr/), [RateYourMusic](https://rateyourmusic.com/~thoughtswithmehehe)
 
 ## Hudba
 
-Každý poslouchá hudbu, tak proč jsem ji tady zmínil? Protože pro mě je hudba více než zvuk. Mnohdy to pro mě má hodně emocí, hodně myšlenek. Poslední ~2 roky také sbírám fyzické nosiče... převážně CD a vinyly. 
+- Každý poslouchá hudbu, tak proč jsem ji tady zmínil? Protože pro mě je hudba více než zvuk. Mnohdy to pro mě má hodně emocí, hodně myšlenek. Poslední ~2 roky také sbírám fyzické nosiče... převážně CD a vinyly. 
 
-Zlomový bod v hudbě (a v tom jak ji vnímám) byla kapela Tool. Která mi rozšířila obzory, a ukázala. Že hudba je více než hudba, ale i myšlenka. A spoustu emocí.
+- Zlomový bod v hudbě (a v tom jak ji vnímám) byla kapela Tool. Která mi rozšířila obzory, a ukázala. Že hudba je více než hudba, ale i myšlenka. A spoustu emocí.
 
 ## hudební nástroje
 
