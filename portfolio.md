@@ -21,8 +21,8 @@
 - Obecně mám rád věci, u kterých si popřemýšlím, ne jen něco. Na co se kouknu (nebo si poslechnu) a hned to vypustím z hlavy. Převážně píšu v Angličtině, ale České věci píšu v Češtině. 
 
 - Myslím si, že mi to pomohlo vnímat věci více než povrchně. Taky bych řekl, že mi to zlepšilo slovní zásobu. A hlavně taky nějakým způsobem myslet sám za sebe, a nedělat si na nic názor bez toho, abych o tom nevěděl něco více. Nezamyslel se nad tím více
-(Profily, kde zveřejňuji své recenze: [Letterboxd](https://letterboxd.com/wocisjr/), [RateYourMusic](https://rateyourmusic.com/~thoughtswithmehehe)
-
+(Profily, kde zveřejňuji své recenze: [Letterboxd](https://letterboxd.com/wocisjr/), [RateYourMusic](https://rateyourmusic.com/~thoughtswithmehehe))
+Také jsem psal 
 ## Hudba
 
 - Každý poslouchá hudbu, tak proč jsem ji tady zmínil? Protože pro mě je hudba více než zvuk. Mnohdy to pro mě má hodně emocí, hodně myšlenek. Poslední ~2 roky také sbírám fyzické nosiče... převážně CD a vinyly. 
@@ -48,4 +48,16 @@
 - udělal jsem si také nějaké skripty v bashi, jako na nastavování serveru se statickou IP adresou
 
 - Také jsem se účastnil Linux hackdays. A utvrdilo mě ještě více, že na vaší škole chci studovat. A rozvíjet se.
+- Tomuhle hobby se sice věnuji jen pár měsíců, ale naprosto mě pohltilo. Neskutečně mě baví nad tím přemýšlet, zkoušet si ty věci. A vím, že toto chci v životě dělat. Že tohle se chci učit
 
+- Také jsem tento rok začal pomáhat s nastavením školního hardwaru.
+
+- Self-hostnul jsem si také vlastní "spotify". Jak to funguje? 
+
+- Také mi to jede přes proxy server, který mám nastavený přes nginx. A na self-host appku používám navidrome. Když nejsem doma, na domácí síti. Tak se připojuji přes VPN.
+
+## Matematika
+
+- Matematika je můj nejoblíbenější školní předmět. Opravdu mě baví logika. A v roce 2023 jsem se účastnil  matematické soutěžě [speedmath]  
+- doučuji i mé spolužáky (např. moje sestra, která má ADD), a také pro ně připravuji [výuková videa](https://youtu.be/APti7_L02aU?si=lVv7NXMlhYdRoQNy)
+- Také se občas doučuji látku navíc.
