@@ -47,7 +47,7 @@ Také jsem psal 16 stránkovou [analýzu na album The Downward Spiral](https://d
 - Před pár měsící jsem se začal učit síťování a linux. Velice mě tento operační systém zaujal.
 - udělal jsem si také nějaké skripty v bashi, jako na nastavování serveru se statickou IP adresou
 
-- Také jsem se účastnil Linux hackdays. A utvrdilo mě ještě více, že na vaší škole chci studovat. A rozvíjet se.
+
 - Tomuhle hobby se sice věnuji jen pár měsíců, ale naprosto mě pohltilo. Neskutečně mě baví nad tím přemýšlet, zkoušet si ty věci. A vím, že toto chci v životě dělat. Že tohle se chci učit
 
 - Také jsem tento rok začal pomáhat s nastavením školního hardwaru.
@@ -56,8 +56,15 @@ Také jsem psal 16 stránkovou [analýzu na album The Downward Spiral](https://d
 
 - Také mi to jede přes proxy server, který mám nastavený přes nginx. A na self-host appku používám navidrome. Když nejsem doma, na domácí síti. Tak se připojuji přes VPN.
 
+- Také jsem se účastnil Linux hackdays. A utvrdilo mě ještě více, že na vaší škole chci studovat. A rozvíjet se.
+
+[![certifikat](photos/osvedceni_ln_Tadeáš Vokas-resized.jpg)](photos/osvedceni_ln_Tadeáš Vokas.jpg)
+
 ## Matematika
 
-- Matematika je můj nejoblíbenější školní předmět. Opravdu mě baví logika. A v roce 2023 jsem se účastnil  matematické soutěžě [speedmath](file:///C:/Users/tadeas/Downloads/IMG_20230629_080309.jpg)  
+- Matematika je můj nejoblíbenější školní předmět. Opravdu mě baví logika. 
 - doučuji i mé spolužáky (např. moje sestra, která má ADD), a také pro ně připravuji [výuková videa](https://youtu.be/APti7_L02aU?si=lVv7NXMlhYdRoQNy)
-- Také se občas doučuji látku navíc.
+- Také se občas doučuji látku navíc. Jako například minulý rok jsem se už učil goniometrické funkce.
+- A v roce 2023 jsem se účastnil  matematické soutěžě speedmath, z které jsem dostal 3 diplomy.
+
+  [![photo](photos/diplomy-resized.jpg)](photos/IMG_20230629_080309.jpg)
