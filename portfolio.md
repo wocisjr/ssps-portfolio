@@ -22,7 +22,7 @@
 
 - Myslím si, že mi to pomohlo vnímat věci více než povrchně. Taky bych řekl, že mi to zlepšilo slovní zásobu. A hlavně taky nějakým způsobem myslet sám za sebe, a nedělat si na nic názor bez toho, abych o tom nevěděl něco více. Nezamyslel se nad tím více
 (Profily, kde zveřejňuji své recenze: [Letterboxd](https://letterboxd.com/wocisjr/), [RateYourMusic](https://rateyourmusic.com/~thoughtswithmehehe))
-Také jsem psal 
+Také jsem psal 16 stránkovou [analýzu na album The Downward Spiral](https://docs.google.com/document/d/1nLFKa6ktUtVb_4BfURdvXvXyiYw39yYN4b7k94QTnv8/edit?usp=sharing)
 ## Hudba
 
 - Každý poslouchá hudbu, tak proč jsem ji tady zmínil? Protože pro mě je hudba více než zvuk. Mnohdy to pro mě má hodně emocí, hodně myšlenek. Poslední ~2 roky také sbírám fyzické nosiče... převážně CD a vinyly. 
@@ -58,6 +58,6 @@ Také jsem psal
 
 ## Matematika
 
-- Matematika je můj nejoblíbenější školní předmět. Opravdu mě baví logika. A v roce 2023 jsem se účastnil  matematické soutěžě [speedmath]  
+- Matematika je můj nejoblíbenější školní předmět. Opravdu mě baví logika. A v roce 2023 jsem se účastnil  matematické soutěžě [speedmath](file:///C:/Users/tadeas/Downloads/IMG_20230629_080309.jpg)  
 - doučuji i mé spolužáky (např. moje sestra, která má ADD), a také pro ně připravuji [výuková videa](https://youtu.be/APti7_L02aU?si=lVv7NXMlhYdRoQNy)
 - Také se občas doučuji látku navíc.
