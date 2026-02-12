@@ -13,3 +13,6 @@ Jmenuji se Tadeáš Vokas, a mimo jiné, se zajímam o kyberbezpečnost. A o lin
 
 - Bezpečnost ve všem mi přijde neskutečně důležitá. A mě obecně neskutečně fascinuje. Jak moc komplexní je kyberbezpečnost. Baví mě sítě. A protokoly okolo toho. A právě v tomhle ohledu chci jít více do hloubky, a myslím si, že by mi obor IT takovou hloubku neposkytl. 
 
+## Co škole přinesu já?
+
+-
