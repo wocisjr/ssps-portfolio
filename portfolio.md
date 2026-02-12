@@ -58,7 +58,11 @@ Také jsem psal 16 stránkovou [analýzu na album The Downward Spiral](https://d
 
 - Také jsem se účastnil Linux hackdays. A utvrdilo mě ještě více, že na vaší škole chci studovat. A rozvíjet se.
 
-[![certifikat](photos/osvedceni_ln_Tadeáš\ Vokas-resized.jpg)](photos/osvedceni_ln_Tadeáš\ Vokas.jpg)
+  [![certifikat](photos/osvedceni_ln_Tadeáš_Vokas-resized.jpg)](photos/osvedceni_ln_Tadeáš_Vokas.jpg)
+
+- Tady také přikládám fotku k mému "labu" v mém pokoji. Mám tady dva minipočítače, kde je proxmox. Potom switch, kde na dvou portech je čistě nativní vlana (ty jdou do mini počítačů)
+
+  [![mini-lab](photos/lab-resized.jpg)](IMG_20260212_133950929.jpg)
 
 ## Matematika
 
@@ -68,3 +72,8 @@ Také jsem psal 16 stránkovou [analýzu na album The Downward Spiral](https://d
 - A v roce 2023 jsem se účastnil  matematické soutěžě speedmath, z které jsem dostal 3 diplomy.
 
   [![photo](photos/diplomy-resized.jpg)](photos/IMG_20230629_080309.jpg)
+
+## Detektoring
+
+- Minulý rok jsem s mým tátou začal chodit na pole s detektorem kovů. Ta elektronika okolo toho je velice fascinující. Je to prakticky čistě o štěstí/o lokalitě. Ale taky je potřeba vědět, jak daný detektor funguje.
+- Našli jsme toho už mnoho... přes kusy traktorů, po x let staré stříbrné mince.
