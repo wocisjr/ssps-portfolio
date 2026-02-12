@@ -58,7 +58,7 @@ Také jsem psal 16 stránkovou [analýzu na album The Downward Spiral](https://d
 
 - Také jsem se účastnil Linux hackdays. A utvrdilo mě ještě více, že na vaší škole chci studovat. A rozvíjet se.
 
-[![certifikat](photos/osvedceni_ln_Tadeáš Vokas-resized.jpg)](photos/osvedceni_ln_Tadeáš Vokas.jpg)
+[![certifikat](photos/osvedceni_ln_Tadeáš\ Vokas-resized.jpg)](photos/osvedceni_ln_Tadeáš\ Vokas.jpg)
 
 ## Matematika
 
