@@ -11,7 +11,7 @@
   [![certifikat](photos/osvedceni_ln_Tadeáš_Vokas-resized.jpg)](photos/osvedceni_ln_Tadeáš_Vokas.jpg)
 - Zde je fotka mého linux "labu" v mém pokoji. Mám tady dva minipočítače, na kterých je proxmox pro virtualizaci. Potom switch, kde mám nastavenou vlastní separátní VLAN abych nerozbil svými pokusy zbytek domácí sítě.
   
-  [![mini-lab](photos/lab-resized.jpg)](IMG_20260212_133950929.jpg)
+  [![mini-lab](photos/lab-resized.jpg)](photos/IMG_20260212_133950929.jpg)
 
 (sem bych přidal ještě fotku těch switchů "domácí síť/switche")
 
