@@ -78,4 +78,4 @@ Také jsem psal 16 stránkovou [analýzu na album The Downward Spiral](https://d
 - Minulý rok jsem s mým tátou začal chodit na pole s detektorem kovů. Ta elektronika okolo toho je velice fascinující. Je to prakticky čistě o štěstí/o lokalitě. Ale taky je potřeba vědět, jak daný detektor funguje.
 - Našli jsme toho už mnoho... přes kusy traktorů, po x let staré stříbrné mince.
 
-  [![photo2](photos/pěkná-foto.jpg)](photos/pěkná-foto1.jpg)
+  [![photo2](photos/pěkná-foto.jpg)](photos/pěkná-foto1.jpg) &nbsp; [![photo3](photos/vsechnor)](photos/vsechno)
