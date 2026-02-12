@@ -19,4 +19,4 @@
 ## Matematika
 
 ###  Jak už jsem předtím zmínil jsou tu jen body z mého portfolio, z důvodu limitu jedné A4
-- Detailní portfolio je na mém [githubu]
+- Detailní portfolio je na mém [githubu](portfolio.md)
