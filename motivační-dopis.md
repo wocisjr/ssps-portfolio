@@ -8,6 +8,7 @@ Jmenuji se Tadeáš Vokas, a mimo jiné, se zajímam o kyberbezpečnost. A o lin
 - Hodně se mi líbí jakou samostatnost dáváte žákům. Veliká samostatnost, ale taky veliká zoodpovědnost. A to přesně si myslím, že mi bude vyhovovat. 
 - Protože už na základní škole mi vadí, že vlastně nemám prakticky žádnou samostatnost. A tím pádem nemám v předmětech moc možností se samostatně rozvíjet.
 - Také se mi hodně líbí to, že se v Pátek nechodí do školy, a je samostudium. Zase, myslím si, že pro mě, je tato věc naprosto perfektní. 
+- A do té samostatnosti, co se mi na tom líbí. Se mi také hodně líbí volitelnost předmětů. Kdy ve 4. ročníku si žák volí prakticky půlku jeho rozvrhu.
 
 ## Proč zrovna obor Kybernetická bezpečnost? 
 
@@ -15,4 +16,6 @@ Jmenuji se Tadeáš Vokas, a mimo jiné, se zajímam o kyberbezpečnost. A o lin
 
 ## Co škole přinesu já?
 
--
+- žáka, který je ochoten pomoct ostatním, a popřípadě je přiučit.
+- Jelikož mě tento obor baví, a zajímá, a chci se mu věnovat i v budoucnosti. Nebudu jenom pasivní žák, který dělá absolutní minimum.
+- Někoho, kdo má fakt zájem o tuto školu, o tento obor. 
