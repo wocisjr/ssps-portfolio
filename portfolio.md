@@ -43,7 +43,7 @@
 - Každý poslouchá hudbu, tak proč jsem ji tady zmínil? Protože pro mě je hudba více než zvuk. Mnohdy to pro mě má hodně emocí, hodně myšlenek. Poslední ~2 roky také sbírám fyzické nosiče... převážně CD a vinyly. 
 - Zlomový bod v hudbě (a v tom jak ji vnímám) byla kapela Tool. Která mi rozšířila obzory, a ukázala. Že hudba je více než hudba, ale i myšlenka. A spoustu emocí.
 
-  [![setup](photos/setupr.jpg)](photos/setup.jpg)
+  [![setup](photos/vinylr.jpg)](photos/vinyl.jpg)
 
 ## Metal Detektoring
 - Minulý rok jsem s mým tátou začal chodit na pole se svým detektorem kovů (dříve pouze jako nosič rýče). Ta elektronika okolo toho je velice fascinující. Není to čistě o štěstí nebo lokalitě ale taky je potřeba vědět, jak daný detektor funguje a jak ho správně nastavit v daných podmínkách.
