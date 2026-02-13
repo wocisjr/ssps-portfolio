@@ -5,7 +5,7 @@ Jmenuji se Tadeáš Vokas, a mám zájem o obor kybernetická bezpečnost na Va�
 (!doplnit správné odkazy po vyzkoušení)
 
 # Portfolio
-## Programování
+## Linux
 ## Speedruning
 ## Speedcubing
 ## Recenzování
