@@ -9,25 +9,25 @@
 <p align="center">
   <a href="photos/osvedceni_ln_Tadeáš_Vokas.jpg" target="_blank"><img src="photos/osvedceni_resized.jpg" alt="Certifikát" height="240"></a>
 </p>
-- Zde je fotka linux "labu" v mém pokoji. Mám dva minipočítače, na kterých je nainstalován proxmox jako virtualizační technologie. Potom switch, kde mám nastavenou vlastní separátní VLAN, abych svými pokusy nerozbil zbytek domácí sítě.
+- Pro ukázku fotka linux "labu" v mém pokoji. Mám dva minipočítače, na kterých je nainstalován proxmox jako virtualizační technologie, switch - kde mám nastavenou vlastní separátní VLAN, abych svými pokusy nerozbil zbytek domácí sítě. Na druhé fotce jsou switche domácí sítě, které už také v případě potřeby mohu nastavovat.
 <p align="center">
   <a href="photos/IMG_20260212_133950929.jpg" target="_blank"><img src="photos/lab_resized.jpg" alt="Můj lab" height="240"></a>
   <a href="photos/switch.jpg" target="_blank"><img src="photos/switch_resized.jpg" alt="Můj lab" height="240"></a>
 </p>  
 
 ## Speedruning
-- Speedruningu se věnuji (on and off) cca 5 let. Speedrunoval jsem mnoho her. Dlouhé hry, krátké hry, komplexnější hry, potom zase lehčí hry. V některých hrách jsem se účastnil [online turnajů](https://www.youtube.com/watch?v=sEgdVephpmA) a [maratonů](https://youtu.be/0sFoXdrly_o?si=72uROZTOXXKPhTV7). Nejvíce kompetetivní jsem byl ve hře Portal, kde bylo mé nejlepší úmístění 25. z cca. 2250 lidí.
-- Pomáhal jsem zakládat a připravovat [žebříčky pro jednu hru](https://www.speedrun.com/ps5_simulator). U několika her jsem dělal [České návody na speedruny](https://www.speedrun.com/portal/guides/o2q6p).
+- Speedruningu se věnuji (on and off) cca 5 let. Speedrun je procházení hry v co nejkratším čase. Speedrunoval jsem mnoho her. Dlouhé hry, krátké hry, komplexnější hry, potom zase lehčí hry. V některých hrách jsem se účastnil [online turnajů](https://www.youtube.com/watch?v=sEgdVephpmA) a [maratonů](https://youtu.be/0sFoXdrly_o?si=72uROZTOXXKPhTV7). Nejvíce kompetetivní jsem byl ve hře Portal, kde bylo mé nejlepší úmístění 25. z cca. 2250 lidí.
+- Pomáhal jsem zakládat a připravovat [žebříčky pro hru ps5 simulator](https://www.speedrun.com/ps5_simulator). U několika her jsem dělal [České návody na speedruny](https://www.speedrun.com/portal/guides/o2q6p).
 - Toto hobby mě naučilo zachovat klidnou hlavu, přizpůsobovat se různým situacím, rychle reagovat a hlavně mít trpělivost.
 
 ## Speedcubing
-- Toto hobby mě poprvé zaujalo cca 4 roky zpět. Rubikovu kostku každý zná, každý ji někdy zkusil skládat. Já jsem se naučil tuto kostku skládat za jeden večer podle jednoho videa. Pár dní jsem ji nedal z ruky. A potom jsem chtěl jít hlouběji. Chtěl jsem se naučit skládát tuto kostku rychle. Což znamenalo naučit se různé algoritmy, jiné metody skládání a různé triky. Dnes složím kostku do cca 12 vteřin. Účastnil jsem se několika turnajů, jak neoficiálních, tak oficiálních (počítaných do světového žebříčku). Oficiální turnaje se zapisují do databáze zvané [WCA](https://www.worldcubeassociation.org/persons/2023VOKA01)
-- Co mě tohle hobby naučilo? Kritické myšlení. Když mám něco velkého, tak si to nějak rozkouskovat na menší části. A také myšlení pod tlakem.
+- Toto hobby mě poprvé zaujalo cca 4 roky zpět. Rubikovu kostku každý zná, každý ji někdy zkusil skládat. Já jsem se naučil tuto kostku skládat za jeden večer podle youtube videa. Pár dní jsem ji nedal z ruky. Naučený způsob skládání mi po chvíli přišel pomalý. Chtěl jsem se naučit skládát tuto kostku rychle. Což znamenalo naučit se různé algoritmy, jiné metody skládání a různé triky. Dnes složím kostku do cca 12 vteřin. Účastnil jsem se několika turnajů, jak neoficiálních, tak oficiálních (počítaných do světového žebříčku). Oficiální turnaje se zapisují do databáze zvané [WCA](https://www.worldcubeassociation.org/persons/2023VOKA01)
+- Co mě toto hobby naučilo? Kritické myšlení. Když mám něco velkého, tak si to nějak rozkouskovat na menší části. A také myšlení pod tlakem.
 
 ## Recenzování
 - Posledních pár měsíců jsem začal "recenzovat" filmy (a někdy taky hudbu). Proč? Miluju tyto věci, miluju je vnímat. A tak mě napadlo, proč to nějak neshrnout a nemít to jako zachycenou vzpomínku? Popřípadě někoho přivést k filmu/hudbě.
 - Obecně mám rád věci, u kterých si popřemýšlím. Ne jen něco, na co se kouknu (nebo si poslechnu) a hned to vypustím z hlavy. Převážně píšu v angličtině, ale českou tvorbu recenzuji v češtině. 
-- Myslím si, že mi to pomohlo vnímat věci více než povrchně. Taky bych řekl, že mi to zlepšilo slovní zásobu. Hlavně také nějakým způsobem myslet sám za sebe, nedělat si na nic názor bez toho, abych o tom nezjistil něco více.
+- Myslím si, že mi to pomohlo vnímat věci více než jen povrchně. Taky bych řekl, že mi to zlepšilo slovní zásobu. Hlavně nějakým způsobem myslet sám za sebe, nedělat si na nic názor bez toho, abych o tom nezjistil něco více.
 (Profily, kde zveřejňuji své recenze: [Letterboxd](https://letterboxd.com/wocisjr/), [RateYourMusic](https://rateyourmusic.com/~thoughtswithmehehe))
 - Zatím nejdelší text, který jsem psal, je 16stránková [analýza alba "The Downward Spiral"](https://docs.google.com/document/d/1nLFKa6ktUtVb_4BfURdvXvXyiYw39yYN4b7k94QTnv8/edit?usp=sharing)
 
@@ -49,7 +49,7 @@
 
 ## Metal Detektoring
 - Minulý rok jsem s tátou začal chodit na pole se svým detektorem kovů (dříve pouze jako nosič rýče). Ta elektronika okolo je prostě fascinující. Není to čistě o štěstí nebo lokalitě ale také je potřeba vědět, jak daný detektor funguje a jak ho správně nastavit v daných podmínkách.
-- Zároveň člověk objevuje historii dané lokality a je třeba pro zvýšení šance dobrých nálezů vytipovat různé zajímavé lokality z historických pramenů (map, kronik...)
+- Zároveň člověk objevuje historii různých míst a je třeba pro zvýšení šance dobrých nálezů vytipovat zajímavé lokality z historických pramenů (map, kronik...)
 - Našli jsme toho už mnoho... přes různé KUTRy (kusy traktorů), po X set let starou stříbrnou minci - což byl shodou okolností jeden z mých prvních nálezů.
 - Je to skvělý relax s nádechem tajemna a v zemi je toho ztraceno neuvěřitelně mnoho
 <p align="center">
@@ -59,7 +59,7 @@
 </p>
 
 ## Videa
-- Dříve jsem točil svá vlastní videa a také si je stříhal. Samozřejmě, nebyla nijak skvělá co se kvality týče, ale v tu dobu mě hodně bavilo si s tím hrát, a učit se nové věci ohledně tohoto oboru.
+- Věnoval jsem se i natáčení vlastních videí a také si je sám stříhal. Samozřejmě, nebyla nijak skvělá co se kvality týče, ale v tu dobu mě hodně bavilo si s tím hrát, a učit se nové věci ohledně tohoto oboru.
 - Před pár měsící jsem také pomáhal [kamarádovi](https://www.tiktok.com/@morallygray_?_r=1&_t=ZN-92dJFbKBXvy) s videi na Tiktoku/Instagramu. Za dobu, co jsem se tomu věnoval, jsem nastříhal cca 30 short-form videí.
 
 ## Hudební nástroje
