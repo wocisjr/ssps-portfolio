@@ -29,7 +29,7 @@
 - Obecně mám rád věci, u kterých si popřemýšlím. Ne jen něco, na co se kouknu (nebo si poslechnu) a hned to vypustím z hlavy. Převážně píšu v angličtině, ale českou tvorbu recenzuji v češtině. 
 - Myslím si, že mi to pomohlo vnímat věci více než jen povrchně. Taky bych řekl, že mi to zlepšilo slovní zásobu. Hlavně nějakým způsobem myslet sám za sebe, nedělat si na nic názor bez toho, abych o tom nezjistil něco více.
 (Profily, kde zveřejňuji své recenze: [Letterboxd](https://letterboxd.com/wocisjr/), [RateYourMusic](https://rateyourmusic.com/~thoughtswithmehehe))
-- Zatím nejdelší text, který jsem psal, je 16stránková [analýza alba "The Downward Spiral"](https://docs.google.com/document/d/1nLFKa6ktUtVb_4BfURdvXvXyiYw39yYN4b7k94QTnv8/edit?usp=sharing)
+- Zatím nejdelší text, který jsem psal, je 16stránková [analýza alba "The Downward Spiral"](documents/My%20interpretation%20of%20The%20Downward%20Spiral.pdf)
 
 ## Matematika
 - Matematika je můj nejoblíbenější školní předmět. Opravdu mě baví logika.
