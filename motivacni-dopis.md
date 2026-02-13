@@ -5,6 +5,7 @@ urlcolor: blue
 citecolor: blue
 documentclass: article
 fontsize: 11pt
+linestretch: 1.05
 geometry:
   - a4paper
   - margin=15mm
