@@ -10,7 +10,7 @@ jmenuji se Tadeáš Vokas a rád bych tímto motivačním dopisem vyjádřil sv�
 - Velmi se mi líbí možnost sestavit si částečně rozvrh, kdy mám možnost ovlivnit to, co se budu na škole učit a to už od 1. ročníku. A ve 4. ročníku možnost ovlivnit skoro půlku rozvrhu - nevídané a dle mě (na české poměry) hodně inovativní - přesně toto od školy očekávám a potřebuji.
 
 ## Proč zrovna obor Kybernetická bezpečnost? 
-- Bezpečnost ve všem mi přijde neskutečně důležitá. Obecně mě neskutečně fascinuje, jak moc komplexní kyberbezpečnost je. Baví mě sítě, veškeré protokoly okolo nich. Myslím si, že bych se v žádném "běžném" IT oboru do takové hloubky znalostí nedostal.
+- Bezpečnost ve všem (hlavně v online prostředí) mi přijde neskutečně důležitá. Fascinuje mě, jak moc komplexní kyberbezpečnost je. Baví mě sítě, veškeré protokoly okolo nich. Myslím si, že bych se v žádném "běžném" IT oboru do takové hloubky znalostí nedostal.
 
 ## Co škole přinesu já?
 - Studenta, který je ochoten pomoci ostatním a popřípadě je přiučit.
@@ -19,7 +19,7 @@ jmenuji se Tadeáš Vokas a rád bych tímto motivačním dopisem vyjádřil sv�
 - Někoho, kdo má opravdový zájem o tuto školu a konkrétně o tento obor.
 
 ## Závěr
-Jsem velmi motivován stát se studentek Vaší školy v oboru Kybernetická bezpečnost. Věřím, že mi tato škola umožní dále rozvíjet mé zájmy a znalosti v oblasti IT a kyberbezpečnosti a zároveň budu moci škole něco vrátit svou aktivitou a přístupem ke studiu.\
+Jsem velmi motivován stát se studentem Vaší školy v oboru Kybernetická bezpečnost. Věřím, že mi tato škola umožní dále rozvíjet mé zájmy a znalosti v oblasti IT a kyberbezpečnosti a zároveň budu moci škole něco vrátit svou aktivitou a přístupem ke studiu.\
 Děkuji vám za zvážení mé přihlášky a čas věnovaný čtení tohoto dopisu.
 
 S pozdravem,\
