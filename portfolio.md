@@ -9,6 +9,7 @@
 <p align="center">
   <a href="photos/osvedceni_ln_Tadeáš_Vokas.jpg" target="_blank"><img src="photos/osvedceni_resized.jpg" alt="Certifikát" height="240"></a>
 </p>
+
 - Pro ukázku fotka linux "labu" v mém pokoji. Mám dva minipočítače, na kterých je nainstalován proxmox jako virtualizační technologie, switch - kde mám nastavenou vlastní separátní VLAN, abych svými pokusy nerozbil zbytek domácí sítě. Na druhé fotce jsou switche domácí sítě, které už také v případě potřeby mohu nastavovat.
 <p align="center">
   <a href="photos/IMG_20260212_133950929.jpg" target="_blank"><img src="photos/lab_resized.jpg" alt="Můj lab" height="240"></a>
@@ -50,12 +51,12 @@
 ## Metal Detektoring
 - Minulý rok jsem s tátou začal chodit na pole se svým detektorem kovů (dříve pouze jako nosič rýče). Ta elektronika okolo je prostě fascinující. Není to čistě o štěstí nebo lokalitě ale také je potřeba vědět, jak daný detektor funguje a jak ho správně nastavit v daných podmínkách.
 - Zároveň člověk objevuje historii různých míst a je třeba pro zvýšení šance dobrých nálezů vytipovat zajímavé lokality z historických pramenů (map, kronik...)
-- Našli jsme toho už mnoho... přes různé KUTRy (kusy traktorů), po X set let starou stříbrnou minci - což byl shodou okolností jeden z mých prvních nálezů.
-- Je to skvělý relax s nádechem tajemna a v zemi je toho ztraceno neuvěřitelně mnoho
+- Našli jsme toho už mnoho... přes různé KUTRy (kusy traktorů), po X set let starou stříbrnou minci - což byl shodou okolností jeden z mých prvních nálezů (poslední foto).
+- Je to skvělý relax s nádechem tajemna a v zemi je toho ztraceno neuvěřitelně mnoho - prostřední foto cca 2.5kg nálezů za rok 2025.
 <p align="center">
   <a href="photos/pěkná-foto1.jpg" target="_blank"><img src="photos/pěkná-foto.jpg" alt="Glamour" height="240"></a>
   <a href="photos/vsechno.jpg" target="_blank"><img src="photos/vsechno_resized.jpg" alt="Nálezy" height="240"></a>
-  <a href="photos/stribrnak.jpg" target="_blank"><img src="photos/stribrnak_resized.jpg" alt="Nálezy" height="240"></a>
+  <a href="photos/stribrnak.jpg" target="_blank"><img src="photos/stribrnak_resized.jpg" alt="Stříbrňák" height="240"></a>
 </p>
 
 ## Videa
