@@ -13,7 +13,7 @@ Jmenuji se Tadeáš Vokas a mám zájem o studium oboru Kybernetická bezpečnos
 - Trocha technicko-historicko-fyzické aktivity nikomu neuškodí.
 
 ## Recenzování
-- Baví mě psát recenze.
+- Baví mě psát recenze na filmy a hudební alba.
 
 ## Hudba
 - Poslouchat a vnímat hudbu.
