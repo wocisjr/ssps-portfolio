@@ -1,5 +1,5 @@
 # Portfolio
-## Programování
+## Linux
 - Před pár měsící jsem se začal učit síťování a linux. Velice mě tento operační systém zaujal.
 - udělal jsem si také nějaké skripty v bashi, pro nastavování serveru se statickou IP adresou, různé úpravy od standartní instalace apod.
 - Tomuto hobby se sice věnuji jen pár měsíců, ale naprosto mě pohltilo. Neskutečně mě baví nad tím přemýšlet, zkoušet si různé věci. A vím, že toto chci v životě dělat. Že tohle se chci učit
