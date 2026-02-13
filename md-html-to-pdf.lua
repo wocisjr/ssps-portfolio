@@ -87,11 +87,9 @@ function Blocks(blocks)
           table.insert(inlines, img)
         end
 
-        out:insert(pandoc.Div(
-          { pandoc.Para(inlines) },
-          pandoc.Attr("", {}, { ["style"] = "text-align: center;" })
-        ))
-
+	out:insert(pandoc.RawBlock("latex", "\\begin{center}"))
+	out:insert(pandoc.Para(inlines))
+	out:insert(pandoc.RawBlock("latex", "\\end{center}"))
         i = j + 1 -- skip past </p>
       else
         -- pattern didn't match well; keep original block
