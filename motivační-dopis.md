@@ -23,10 +23,8 @@ jmenuji se Tadeáš Vokas a rád bych tímto motivačním dopisem vyjádřil sv�
 
 [závěr komplet nový - uprav dle potřeby]
 ## Závěr
-Jsem velmi motivován stát se studentek Vaší školy v oboru Kybernetická bezpečnost. Věřím, že mi tato škola umožní dále rozvíjet mé zájmy a znalosti v oblasti IT a kyberbezpečnosti a zároveň budu moci škole něco vrátit svou aktivitou a přístupem ke studiu.
-
+Jsem velmi motivován stát se studentek Vaší školy v oboru Kybernetická bezpečnost. Věřím, že mi tato škola umožní dále rozvíjet mé zájmy a znalosti v oblasti IT a kyberbezpečnosti a zároveň budu moci škole něco vrátit svou aktivitou a přístupem ke studiu.\
 Děkuji vám za zvážení mé přihlášky a čas věnovaný čtení tohoto dopisu.
 
-S pozdravem,
-
+S pozdravem,\
 Tadeáš Vokas
