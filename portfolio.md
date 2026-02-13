@@ -12,6 +12,7 @@
 - Zde je fotka linux "labu" v mém pokoji. Mám dva minipočítače, na kterých je nainstalován proxmox jako virtualizační technologie. Potom switch, kde mám nastavenou vlastní separátní VLAN, abych svými pokusy nerozbil zbytek domácí sítě.
 <p align="center">
   <a href="photos/IMG_20260212_133950929.jpg" target="_blank"><img src="photos/lab_resized.jpg" alt="Můj lab" height="240"></a>
+  <a href="photos/switch.jpg" target="_blank"><img src="photos/switch_resized.jpg" alt="Můj lab" height="240"></a>
 </p>  
 
 ## Speedruning
