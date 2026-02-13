@@ -1,9 +1,14 @@
 ---
-geometry: margin=15mm
 colorlinks: true
 linkcolor: blue
 urlcolor: blue
 citecolor: blue
+documentclass: article
+fontsize: 11pt
+linestretch: 1.05
+geometry:
+  - a4paper
+  - margin=15mm
 ---
 # Portfolio
 ## Linux
@@ -29,8 +34,8 @@ citecolor: blue
 ## Matematika
 - Matematika je můj nejoblíbenější školní předmět. Opravdu mě baví logika.
 - Doučuji i mé spolužáky (např. moji sestru, která má ADD). Také pro ně připravuji [výuková videa](https://youtu.be/APti7_L02aU?si=lVv7NXMlhYdRoQNy)
-- Občas se učím látku napřed - minulý rok jsem se už učil goniometrické funkce.
-- V roce 2023 jsem se účastnil matematické soutěžě Speedmath, z které jsem získal 3 diplomy.
+- Občas se učím látku napřed - minulý rok jsem se sám učil goniometrické funkce.
+- V roce 2023 jsem se zúčastnil matematické soutěžě Speedmath, ve které jsem získal 3 diplomy.
 <p align="center">
   <a href="photos/IMG_20230629_080309.jpg" target="_blank"><img src="photos/diplomy_resized.jpg" alt="Diplomy" height="240"></a>
 </p>
@@ -49,28 +54,28 @@ citecolor: blue
 ## Recenzování
 - Posledních pár měsíců jsem začal "recenzovat" filmy (a někdy taky hudbu). Proč? Miluju tyto věci, miluju je vnímat. A tak mě napadlo, proč to nějak neshrnout a nemít to jako zachycenou vzpomínku? Popřípadě někoho přivést k filmu/hudbě.
 - Obecně mám rád věci, u kterých si popřemýšlím. Ne jen něco, na co se kouknu (nebo si poslechnu) a hned to vypustím z hlavy. Převážně píšu v angličtině, ale českou tvorbu recenzuji v češtině. 
-- Myslím si, že mi to pomohlo vnímat věci více než jen povrchně. Taky bych řekl, že mi to zlepšilo slovní zásobu. Hlavně nějakým způsobem myslet sám za sebe, nedělat si na nic názor bez toho, abych o tom nezjistil něco více.
+- Myslím si, že mi to pomohlo vnímat věci více než jen povrchně. Také bych řekl, že mi to zlepšilo slovní zásobu. Hlavně nějakým způsobem myslet sám za sebe, nedělat si na nic názor bez toho, abych o tom nezjistil něco více.
 (Profily, kde zveřejňuji své recenze: [Letterboxd](https://letterboxd.com/wocisjr/), [RateYourMusic](https://rateyourmusic.com/~thoughtswithmehehe))
-- Zatím nejdelší text, který jsem psal, je 16stránková [analýza alba "The Downward Spiral"](https://github.com/wocisjr/ssps-portfolio/blob/main/documents/My%20interpretation%20of%20The%20Downward%20Spiral.pdf)
+- Zatím nejdelší text, který jsem psal, je 16stránková [analýza alba "The Downward Spiral" od kapely Nine Inch Nails](https://github.com/wocisjr/ssps-portfolio/blob/main/documents/My%20interpretation%20of%20The%20Downward%20Spiral.pdf)
 
 ## Hudba
 - Každý poslouchá hudbu, tak proč jsem ji tady zmínil? Protože pro mě je hudba více než zvuk. Mnohdy zachycuje hodně emocí, hodně myšlenek. Poslední ~2 roky také sbírám fyzické nosiče... převážně CD a vinyly. 
-- Zlomový bod v hudbě (a v tom jak ji vnímám) byla kapela Tool. Právě ta mi rozšířila obzory a ukázala, že hudba je více než rytmický zvuk, ale i myšlenka. A spousta emocí.
+- Zlomový bod v hudbě (a v tom, jak ji vnímám) byla kapela Tool. Právě ta mi rozšířila obzory a ukázala, že hudba je více než rytmický zvuk, ale i myšlenka. A spousta emocí.
 <p align="center">
   <a href="photos/vinyl.jpg" target="_blank"><img src="photos/vinyl_resized.jpg" alt="Audio setup" height="240"></a>
 </p>
 
 ## Videa
-- Věnoval jsem se i natáčení vlastních videí a také si je sám stříhal. Samozřejmě, nebyla nijak skvělá co se kvality týče, ale v tu dobu mě hodně bavilo si s tím hrát, a učit se nové věci ohledně tohoto oboru.
+- Věnoval jsem se i natáčení vlastních videí a také si je sám stříhal. Samozřejmě, nebyla nijak skvělá co se kvality týče, ale v tu dobu mě hodně bavilo si s tím hrát a učit se nové věci ohledně tohoto oboru.
 - Před pár měsící jsem také pomáhal [kamarádovi](https://www.tiktok.com/@morallygray_?_r=1&_t=ZN-92dJFbKBXvy) s videi na Tiktoku/Instagramu. Za dobu, co jsem se tomu věnoval, jsem nastříhal cca 30 short-form videí.
 
 ## Hudební nástroje
 - Dřive jsem se učil na bicí. Vždy mě fascinovaly perkuse, rytmika. Obecně mám rád písničky, kde jsou perkuse jako dominatní hudební nástroj.
-- Na bicí už nehraji. Momentálně se učím na elektrickou basu. Velice mě baví sledovat hudební videa. Nikdy mě moc nebavila ortodoxní metoda typu "Nauč se noty." - radši se učím z videí a ihned si zkouším dané riffy hrát.
+- Na bicí už nehraji. Momentálně se učím na elektrickou basu. Velice mě baví sledovat hudební videa. Nikdy mě moc nebavila ortodoxní metoda typu "Nauč se noty." - Radši se učím z videí a ihned si zkouším dané riffy hrát.
 
 ## Speedcubing
-- Toto hobby mě poprvé zaujalo cca 4 roky zpět. Rubikovu kostku každý zná, každý ji někdy zkusil skládat. Já jsem se naučil tuto kostku skládat za jeden večer podle youtube videa. Pár dní jsem ji nedal z ruky. Naučený způsob skládání mi po chvíli přišel pomalý. Chtěl jsem se naučit skládát tuto kostku rychle. Což znamenalo naučit se různé algoritmy, jiné metody skládání a různé triky. Dnes složím kostku do cca 12 vteřin. Účastnil jsem se několika turnajů, jak neoficiálních, tak oficiálních (počítaných do světového žebříčku). Oficiální turnaje se zapisují do databáze zvané [WCA](https://www.worldcubeassociation.org/persons/2023VOKA01)
-- Co mě toto hobby naučilo? Kritické myšlení. Když mám něco velkého, tak si to nějak rozkouskovat na menší části. A také myšlení pod tlakem.
+- Toto hobby mě poprvé zaujalo cca 4 roky zpět. Rubikovu kostku každý zná, každý ji někdy zkusil skládat. Já jsem se naučil tuto kostku skládat za jeden večer podle youtube videa. Pár dní jsem ji nedal z ruky. Naučený způsob skládání mi po chvíli přišel pomalý. Chtěl jsem se naučit skládat ji rychle. Což znamenalo naučit se různé algoritmy, jiné metody skládání a různé triky. Dnes složím kostku do cca 12 vteřin. Účastnil jsem se několika turnajů, jak neoficiálních, tak oficiálních (počítaných do světového žebříčku). Oficiální turnaje se zapisují do databáze zvané [WCA](https://www.worldcubeassociation.org/persons/2023VOKA01)
+- Co mě toto hobby naučilo? Kritické myšlení. Když mám něco velkého, tak si to rozkouskuji na menší části. A také myšlení pod tlakem.
 
 ## Speedruning
 - Speedruningu se věnuji (on and off) cca 5 let. Speedrun je procházení hry v co nejkratším čase. Speedrunoval jsem mnoho her. Dlouhé hry, krátké hry, komplexnější hry, potom zase lehčí hry. V některých hrách jsem se účastnil [online turnajů](https://www.youtube.com/watch?v=sEgdVephpmA) a [maratonů](https://youtu.be/0sFoXdrly_o?si=72uROZTOXXKPhTV7). Nejvíce kompetetivní jsem byl ve hře Portal, kde bylo mé nejlepší úmístění 25. z cca. 2250 lidí.
