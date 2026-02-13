@@ -1,7 +1,5 @@
-- Dobrý den, zde přikládám linky k jednotlivým souborům pro přijímací řízení na SSPŠ. Jsou dvě verze portfolia. Jedna verza je zkrácená tak, aby se vešla do cca. jednostrany. Poté je "portfolio detailed", které je na cca. 2 a půl stránky. Předem děkuji, za přečtení těchto věcí. 
+Tento repositář obsahuje dokumenty k přijímacímu řízení na SSPŠ obor Kybernetická bezpečnost
 
-[portfolio](portfolio.md)
-
-[portfolio detailed](portfolio-detailed.md)
-
-[motivační dopis](motivační-dopis.md)
+* [Portfolio - krátká verze](portfolio-short.md) (pouze hlavní body - rozsah 1xA4)
+* [Portfolio - plná verze](portfolio.md)
+* [Motivační dopis](motivační-dopis.md)
