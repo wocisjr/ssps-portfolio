@@ -12,7 +12,7 @@ jmenuji se Tadeáš Vokas a rád bych tímto motivačním dopisem vyjádřil sv�
 [upravene konstrukce vět]
 
 ## Proč zrovna obor Kybernetická bezpečnost? 
-- Bezpečnost ve všem mi přijde neskutečně důležitá. Obecně mě neskutečně fascinuje jak moc komplexní je kyberbezpečnost. Baví mě sítě, veškeré protokoly okolo nich. Přesně v tomto ohledu chci jít více do hloubky. Myslím si, že bych se v "běžném" IT oboru nedostal do takové hloubky znalostí.
+- Bezpečnost ve všem mi přijde neskutečně důležitá. Obecně mě neskutečně fascinuje, jak moc komplexní kyberbezpečnost je. Baví mě sítě, veškeré protokoly okolo nich. Myslím si, že bych se v žádném "běžném" IT oboru do takové hloubky znalostí nedostal.
 
 ## Co škole přinesu já?
 - Žáka, který je ochoten pomoci ostatním a popřípadě je přiučit.
