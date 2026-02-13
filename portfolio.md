@@ -6,12 +6,15 @@
 - Tento rok jsem začal pomáhat s nastavováním hardware na mé základní škole.
 - Self-hostuji si vlastní aplikace, např vlastní "spotify". Jak to funguje? Přístup na něj mám přes proxy server, který mám nastavený přes nginx. Jako server používám navidrome. Když nejsem doma připojuji se přes wireguard VPN.
 - Účastnil jsem se Linux hackdays na vaší škole a to mě utvrdilo ještě více, že u vás chci studovat a rozvíjet se.
-  
-  [![certifikat](photos/osvedceni_ln_Tadeáš_Vokas-resized.jpg)](photos/osvedceni_ln_Tadeáš_Vokas.jpg)
+<p align="center">
+  <a href="photos/osvedceni_ln_Tadeáš_Vokas.jpg" target="_blank"><img src="photos/osvedceni_ln_Tadeáš_Vokas-resized.jpg" alt="Certifikát" height="240"></a>
+</p>
 - Zde je fotka linux "labu" v mém pokoji. Mám dva minipočítače, na kterých je nainstalován proxmox jako virtualizační technologie. Potom switch, kde mám nastavenou vlastní separátní VLAN, abych svými pokusy nerozbil zbytek domácí sítě.
-  
-  [![mini-lab](photos/lab-resized.jpg)](photos/IMG_20260212_133950929.jpg)
-
+<p align="center">
+  <a href="photos/IMG_20260212_133950929.jpg" target="_blank"><img src="photos/lab-resized.jpg" alt="Můj lab" height="240"></a>
+  <a href="photos/IMG_20260212_133950929.jpg" target="_blank"><img src="photos/lab-resized.jpg" alt="Certifikát" height="240"></a>
+</p>  
+ 
 (sem bych přidal ještě fotku těch switchů "domácí síť/switche")
 
 ## Speedruning
@@ -35,22 +38,26 @@
 - Doučuji i mé spolužáky (např. moji sestru, která má ADD). Také pro ně připravuji [výuková videa](https://youtu.be/APti7_L02aU?si=lVv7NXMlhYdRoQNy)
 - Občas se učím látku napřed - minulý rok jsem se už učil goniometrické funkce.
 - V roce 2023 jsem se účastnil matematické soutěžě Speedmath, z které jsem získal 3 diplomy.
-
-  [![photo](photos/diplomy-resized.jpg)](photos/IMG_20230629_080309.jpg)
+<p align="center">
+  <a href="photos/IMG_20230629_080309.jpg" target="_blank"><img src="photos/diplomy-resized.jpg" alt="Diplomy" height="240"></a>
+</p>
 
 ## Hudba
 - Každý poslouchá hudbu, tak proč jsem ji tady zmínil? Protože pro mě je hudba více než zvuk. Mnohdy zachycuje hodně emocí, hodně myšlenek. Poslední ~2 roky také sbírám fyzické nosiče... převážně CD a vinyly. 
 - Zlomový bod v hudbě (a v tom jak ji vnímám) byla kapela Tool. Právě ta mi rozšířila obzory a ukázala, že hudba je více než rytmický zvuk, ale i myšlenka. A spousta emocí.
-
-  [![setup](photos/vinylr.jpg)](photos/vinyl.jpg)
+<p align="center">
+  <a href="photos/vinyl.jpg" target="_blank"><img src="photos/vinylr.jpg" alt="Audio setup" height="240"></a>
+</p>
 
 ## Metal Detektoring
 - Minulý rok jsem s tátou začal chodit na pole se svým detektorem kovů (dříve pouze jako nosič rýče). Ta elektronika okolo je prostě fascinující. Není to čistě o štěstí nebo lokalitě ale také je potřeba vědět, jak daný detektor funguje a jak ho správně nastavit v daných podmínkách.
 - Zároveň člověk objevuje historii dané lokality a je třeba pro zvýšení šance dobrých nálezů vytipovat různé zajímavé lokality z historických pramenů (map, kronik...)
 - Našli jsme toho už mnoho... přes různé KUTRy (kusy traktorů), po X set let starou stříbrnou minci - což byl shodou okolností jeden z mých prvních nálezů.
 - Je to skvělý relax s nádechem tajemna a v zemi je toho ztraceno neuvěřitelně mnoho
-
-  [![photo2](photos/pěkná-foto.jpg)](photos/pěkná-foto1.jpg) &nbsp; [![photo3](photos/vsechnor.jpg)](photos/vsechno.jpg)
+<p align="center">
+  <a href="photos/pěkná-foto1.jpg" target="_blank"><img src="photos/pěkná-foto.jpg" alt="Glamour" height="240"></a>
+  <a href="photos/vsechno.jpg" target="_blank"><img src="photos/vsechnor.jpg" alt="Nálezy" height="240"></a>
+</p>
 
 (sem bych přidal ještě ten stříbrňák)
 
