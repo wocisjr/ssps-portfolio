@@ -7,15 +7,12 @@
 - Self-hostuji si vlastní aplikace, např vlastní "spotify". Jak to funguje? Přístup na něj mám přes proxy server, který mám nastavený přes nginx. Jako server používám navidrome. Když nejsem doma připojuji se přes wireguard VPN.
 - Účastnil jsem se Linux hackdays na vaší škole a to mě utvrdilo ještě více, že u vás chci studovat a rozvíjet se.
 <p align="center">
-  <a href="photos/osvedceni_ln_Tadeáš_Vokas.jpg" target="_blank"><img src="photos/osvedceni_ln_Tadeáš_Vokas-resized.jpg" alt="Certifikát" height="240"></a>
+  <a href="photos/osvedceni_ln_Tadeáš_Vokas.jpg" target="_blank"><img src="photos/osvedceni_resized.jpg" alt="Certifikát" height="240"></a>
 </p>
 - Zde je fotka linux "labu" v mém pokoji. Mám dva minipočítače, na kterých je nainstalován proxmox jako virtualizační technologie. Potom switch, kde mám nastavenou vlastní separátní VLAN, abych svými pokusy nerozbil zbytek domácí sítě.
 <p align="center">
-  <a href="photos/IMG_20260212_133950929.jpg" target="_blank"><img src="photos/lab-resized.jpg" alt="Můj lab" height="240"></a>
-  <a href="photos/IMG_20260212_133950929.jpg" target="_blank"><img src="photos/lab-resized.jpg" alt="Certifikát" height="240"></a>
+  <a href="photos/IMG_20260212_133950929.jpg" target="_blank"><img src="photos/lab_resized.jpg" alt="Můj lab" height="240"></a>
 </p>  
- 
-(sem bych přidal ještě fotku těch switchů "domácí síť/switche")
 
 ## Speedruning
 - Speedruningu se věnuji (on and off) cca 5 let. Speedrunoval jsem mnoho her. Dlouhé hry, krátké hry, komplexnější hry, potom zase lehčí hry. V některých hrách jsem se účastnil [online turnajů](https://www.youtube.com/watch?v=sEgdVephpmA) a [maratonů](https://youtu.be/0sFoXdrly_o?si=72uROZTOXXKPhTV7). Nejvíce kompetetivní jsem byl ve hře Portal, kde bylo mé nejlepší úmístění 25. z cca. 2250 lidí.
@@ -39,14 +36,14 @@
 - Občas se učím látku napřed - minulý rok jsem se už učil goniometrické funkce.
 - V roce 2023 jsem se účastnil matematické soutěžě Speedmath, z které jsem získal 3 diplomy.
 <p align="center">
-  <a href="photos/IMG_20230629_080309.jpg" target="_blank"><img src="photos/diplomy-resized.jpg" alt="Diplomy" height="240"></a>
+  <a href="photos/IMG_20230629_080309.jpg" target="_blank"><img src="photos/diplomy_resized.jpg" alt="Diplomy" height="240"></a>
 </p>
 
 ## Hudba
 - Každý poslouchá hudbu, tak proč jsem ji tady zmínil? Protože pro mě je hudba více než zvuk. Mnohdy zachycuje hodně emocí, hodně myšlenek. Poslední ~2 roky také sbírám fyzické nosiče... převážně CD a vinyly. 
 - Zlomový bod v hudbě (a v tom jak ji vnímám) byla kapela Tool. Právě ta mi rozšířila obzory a ukázala, že hudba je více než rytmický zvuk, ale i myšlenka. A spousta emocí.
 <p align="center">
-  <a href="photos/vinyl.jpg" target="_blank"><img src="photos/vinylr.jpg" alt="Audio setup" height="240"></a>
+  <a href="photos/vinyl.jpg" target="_blank"><img src="photos/vinyl_resized.jpg" alt="Audio setup" height="240"></a>
 </p>
 
 ## Metal Detektoring
@@ -56,10 +53,9 @@
 - Je to skvělý relax s nádechem tajemna a v zemi je toho ztraceno neuvěřitelně mnoho
 <p align="center">
   <a href="photos/pěkná-foto1.jpg" target="_blank"><img src="photos/pěkná-foto.jpg" alt="Glamour" height="240"></a>
-  <a href="photos/vsechno.jpg" target="_blank"><img src="photos/vsechnor.jpg" alt="Nálezy" height="240"></a>
+  <a href="photos/vsechno.jpg" target="_blank"><img src="photos/vsechno_resized.jpg" alt="Nálezy" height="240"></a>
+  <a href="photos/stribrnak.jpg" target="_blank"><img src="photos/stribrnak_resized.jpg" alt="Nálezy" height="240"></a>
 </p>
-
-(sem bych přidal ještě ten stříbrňák)
 
 ## Videa
 - Dříve jsem točil svá vlastní videa a také si je stříhal. Samozřejmě, nebyla nijak skvělá co se kvality týče, ale v tu dobu mě hodně bavilo si s tím hrát, a učit se nové věci ohledně tohoto oboru.
