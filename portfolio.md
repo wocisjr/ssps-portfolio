@@ -1,3 +1,10 @@
+---
+geometry: margin=15mm
+colorlinks: true
+linkcolor: blue
+urlcolor: blue
+citecolor: blue
+---
 # Portfolio
 ## Linux
 - Již delší dobu se věnuji síťování a Linuxu. Velice mě tento operační systém zaujal.
@@ -44,7 +51,7 @@
 - Obecně mám rád věci, u kterých si popřemýšlím. Ne jen něco, na co se kouknu (nebo si poslechnu) a hned to vypustím z hlavy. Převážně píšu v angličtině, ale českou tvorbu recenzuji v češtině. 
 - Myslím si, že mi to pomohlo vnímat věci více než jen povrchně. Taky bych řekl, že mi to zlepšilo slovní zásobu. Hlavně nějakým způsobem myslet sám za sebe, nedělat si na nic názor bez toho, abych o tom nezjistil něco více.
 (Profily, kde zveřejňuji své recenze: [Letterboxd](https://letterboxd.com/wocisjr/), [RateYourMusic](https://rateyourmusic.com/~thoughtswithmehehe))
-- Zatím nejdelší text, který jsem psal, je 16stránková [analýza alba "The Downward Spiral"](documents/My%20interpretation%20of%20The%20Downward%20Spiral.pdf)
+- Zatím nejdelší text, který jsem psal, je 16stránková [analýza alba "The Downward Spiral"](https://github.com/wocisjr/ssps-portfolio/blob/main/documents/My%20interpretation%20of%20The%20Downward%20Spiral.pdf)
 
 ## Hudba
 - Každý poslouchá hudbu, tak proč jsem ji tady zmínil? Protože pro mě je hudba více než zvuk. Mnohdy zachycuje hodně emocí, hodně myšlenek. Poslední ~2 roky také sbírám fyzické nosiče... převážně CD a vinyly. 
