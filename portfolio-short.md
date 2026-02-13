@@ -1,3 +1,10 @@
+---
+geometry: margin=15mm
+colorlinks: true
+linkcolor: blue
+urlcolor: blue
+citecolor: blue
+---
 Dobrý den,
 
 Jmenuji se Tadeáš Vokas a mám zájem o studium oboru Kybernetická bezpečnost na Vaší škole. Z důvodu limitu jedné A4 zde přikládám pouze body z mého portfolia, pro plnou verzi prosím navštivte odkaz na můj github repositář [https://github.com/wocisjr/ssps-portfolio](https://github.com/wocisjr/ssps-portfolio) kde najdete plnou a detailní verzi (push mirror z mého domácího git repositáře).

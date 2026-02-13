@@ -1,3 +1,10 @@
+---
+geometry: margin=15mm
+colorlinks: true
+linkcolor: blue
+urlcolor: blue
+citecolor: blue
+---
 # Motivační dopis
 Vážená přijímací komise,
 jmenuji se Tadeáš Vokas a rád bych tímto motivačním dopisem vyjádřil svůj zájem o studium oboru Kybernetická bezpečnost na Smíchovské střední průmyslové škole. Mám dlouhodobý zájem o IT, bezpečnost na internetu, Linux a sítě. Obor kybernetická bezpečnost se mi po návštěvě Vaší školy zalíbil nejvíc v podstatě se trefil do mých hlavních IT zájmů. 
