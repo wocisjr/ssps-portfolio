@@ -9,6 +9,13 @@ linestretch: 0.90
 geometry:
   - a4paper
   - margin=15mm
+header-includes:
+  - \usepackage{fancyhdr}
+  - \usepackage{lastpage}
+  - \pagestyle{fancy}
+  - \fancyhf{}
+  - \renewcommand{\headrulewidth}{0pt}
+  - \fancyhead[R]{Tadeáš Vokas - portfolio-short.md}
 ---
 Dobrý den,
 
@@ -41,5 +48,5 @@ kde najdete plnou a detailní verzi (push mirror z mého domácího git reposit�
 ## Speedcubing
 - Rychlou mysl a hbité prsty uplatním nejen na počítači.
 
-## Speedruning
+## Speedrunning
 - Abych neztrácel čas hraním her na PC, projdu hrou jak nejrychleji to jde.
