@@ -4,11 +4,18 @@ linkcolor: blue
 urlcolor: blue
 citecolor: blue
 documentclass: article
-fontsize: 11pt
+fontsize: 12pt
 linestretch: 1.05
 geometry:
   - a4paper
   - margin=15mm
+header-includes:
+  - \usepackage{fancyhdr}
+  - \usepackage{lastpage}
+  - \pagestyle{fancy}
+  - \fancyhf{}
+  - \renewcommand{\headrulewidth}{0pt}
+  - \fancyhead[R]{Tadeáš Vokas - motivacni-dopis.md}
 ---
 # Motivační dopis
 Vážená přijímací komise,

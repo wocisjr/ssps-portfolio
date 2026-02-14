@@ -5,14 +5,23 @@ urlcolor: blue
 citecolor: blue
 documentclass: extarticle
 fontsize: 14pt
-linestretch: 0.95
+linestretch: 0.90
 geometry:
   - a4paper
   - margin=15mm
+header-includes:
+  - \usepackage{fancyhdr}
+  - \usepackage{lastpage}
+  - \pagestyle{fancy}
+  - \fancyhf{}
+  - \renewcommand{\headrulewidth}{0pt}
+  - \fancyhead[R]{Tadeáš Vokas - portfolio-short.md}
 ---
 Dobrý den,
 
-Jmenuji se Tadeáš Vokas a mám zájem o studium oboru Kybernetická bezpečnost na Vaší škole. Z důvodu limitu jedné A4 zde přikládám pouze body z mého portfolia, pro plnou verzi prosím navštivte odkaz na můj github repositář [https://github.com/wocisjr/ssps-portfolio](https://github.com/wocisjr/ssps-portfolio), kde najdete plnou a detailní verzi (push mirror z mého domácího git repositáře).
+Jmenuji se Tadeáš Vokas a mám zájem o studium oboru Kybernetická bezpečnost na Vaší škole. Z důvodu limitu jedné A4 zde přikládám pouze body z mého portfolia, pro plnou verzi prosím navštivte odkaz na můj github repositář\
+[https://github.com/wocisjr/ssps-portfolio](https://github.com/wocisjr/ssps-portfolio),\
+kde najdete plnou a detailní verzi (push mirror z mého domácího git repositáře).
 
 # Portfolio
 ## Linux
@@ -39,5 +48,5 @@ Jmenuji se Tadeáš Vokas a mám zájem o studium oboru Kybernetická bezpečnos
 ## Speedcubing
 - Rychlou mysl a hbité prsty uplatním nejen na počítači.
 
-## Speedruning
+## Speedrunning
 - Abych neztrácel čas hraním her na PC, projdu hrou jak nejrychleji to jde.
