@@ -31,6 +31,7 @@ pro správné vytáhnutí obrázků z našich .md potřebujeme převést html ta
 ```
 pandoc --pdf-engine=lualatex \
   --lua-filter=md-html-to-pdf.lua \
+  --lua-filter=pagebreak.lua \
   --resource-path=. \
   source.md \
   -o docs/output.pdf \
