@@ -37,7 +37,7 @@ header-includes:
 
 - Pro správu svého labu začínám používat automatizační systém Ansible. Zároveň si vše snažím držet ve svých git repositářích pro lepší přehlednost. GIT jsem začal používat i na své běžné poznámky - viz tento samotný repositář.
 - Velkou oporou v tomto koníčku je můj táta, který jako devops/SRE pracuje skoro celý život.
-\newpage
+<!-- pagebreak -->
 
 ## Matematika
 - Matematika je můj nejoblíbenější školní předmět. Opravdu mě baví logika.
@@ -65,7 +65,7 @@ header-includes:
 - Myslím si, že mi to pomohlo vnímat věci více než jen povrchně. Také bych řekl, že mi to zlepšilo slovní zásobu. Hlavně nějakým způsobem myslet sám za sebe, nedělat si na nic názor bez toho, abych o tom nezjistil něco více.
 (Profily, kde zveřejňuji své recenze: [Letterboxd](https://letterboxd.com/wocisjr/), [RateYourMusic](https://rateyourmusic.com/~thoughtswithmehehe))
 - Zatím nejdelší text, který jsem psal, je 16stránková [analýza alba "The Downward Spiral" od kapely Nine Inch Nails](https://github.com/wocisjr/ssps-portfolio/blob/main/documents/My_interpretation_of_The_Downward_Spiral.pdf)
-\newpage
+<!-- pagebreak -->
 
 ## Hudba
 - Každý poslouchá hudbu, tak proč jsem ji tady zmínil? Protože pro mě je hudba více než zvuk. Mnohdy zachycuje hodně emocí, hodně myšlenek. Poslední ~2 roky také sbírám fyzické nosiče... převážně CD a vinyly. 
@@ -85,7 +85,7 @@ header-includes:
 ## Speedcubing
 - Toto hobby mě poprvé zaujalo cca 4 roky zpět. Rubikovu kostku každý zná, každý ji někdy zkusil skládat. Já jsem se naučil tuto kostku skládat za jeden večer podle youtube videa. Pár dní jsem ji nedal z ruky. Naučený způsob skládání mi po chvíli přišel pomalý. Chtěl jsem se naučit skládat ji rychle. Což znamenalo naučit se různé algoritmy, jiné metody skládání a různé triky. Dnes složím kostku do cca 12 vteřin. Účastnil jsem se několika turnajů, jak neoficiálních, tak oficiálních (počítaných do světového žebříčku). Oficiální turnaje se zapisují do databáze zvané [WCA](https://www.worldcubeassociation.org/persons/2023VOKA01)
 - Co mě toto hobby naučilo? Kritické myšlení. Když mám něco velkého, tak si to rozkouskuji na menší části. A také myšlení pod tlakem.
-\newpage
+<!-- pagebreak -->
 
 ## Speedrunning
 - Speedrunningu se věnuji (on and off) cca 5 let. Speedrun je procházení hry v co nejkratším čase. Speedrunoval jsem mnoho her. Dlouhé hry, krátké hry, komplexnější hry, potom zase lehčí hry. V některých hrách jsem se účastnil [online turnajů](https://www.youtube.com/watch?v=sEgdVephpmA) a [maratonů](https://youtu.be/0sFoXdrly_o?si=72uROZTOXXKPhTV7). Nejvíce kompetetivní jsem byl ve hře Portal, kde bylo mé nejlepší úmístění 25. z cca. 2250 lidí.
