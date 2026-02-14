@@ -7,7 +7,13 @@ documentclass: article
 fontsize: 12pt
 geometry:
   - a4paper
-  - margin=15mm
+  - top=10mm
+  - bottom=10mm
+  - left=15mm
+  - right=15mm
+  - headsep=5mm
+  - includehead
+  - includefoot
 header-includes:
   - \usepackage{fancyhdr}
   - \usepackage{lastpage}
