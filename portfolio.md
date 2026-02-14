@@ -29,7 +29,7 @@ header-includes:
 - Udělal jsem si také nějaké skripty v bashi, pro nastavování serveru se statickou IP adresou, různé úpravy od standartní instalace apod.
 - Toto hobby mě neskutečně pohltilo tím, jak je obsáhlé. Neskutečně mě baví nad tím přemýšlet, zkoušet si různé věci. Už teď je mi jasné, že tomuto oboru se chci věnovat i v profesním životě.
 - Tento rok jsem začal pomáhat s nastavováním hardware na mé základní škole.
-- Self-hostuji si vlastní aplikace, např vlastní "spotify". Jak to funguje? Přístup na něj mám přes proxy server, který mám nastavený přes nginx. Jako server používám navidrome. Když nejsem doma připojuji se přes wireguard VPN.
+- Self-hostuji si vlastní aplikace, např vlastní "spotify". Jak to funguje? Přístup na něj mám přes proxy server, který mám nastavený přes nginx. Jako server používám navidrome. Když nejsem doma, připojuji se přes wireguard VPN.
 - Účastnil jsem se Linux hackdays na vaší škole a to mě utvrdilo ještě více, že u vás chci studovat a rozvíjet se.
 <p align="center">
   <a href="photos/osvedceni_ln_Tadeáš_Vokas.jpg" target="_blank"><img src="photos/osvedceni_resized.jpg" alt="Certifikát" height="240"></a>
@@ -55,7 +55,7 @@ header-includes:
 </p>
 
 ## Metal Detectoring
-- Minulý rok jsem s tátou začal chodit na pole a do lesů se svým detektorem kovů (dříve pouze jako nosič rýče). Ta elektronika okolo je prostě fascinující. Není to čistě o štěstí nebo lokalitě ale také je potřeba vědět, jak daný detektor funguje a jak ho správně nastavit v daných podmínkách.
+- Minulý rok jsem s tátou začal chodit na pole a do lesů se svým detektorem kovů (dříve pouze jako nosič rýče). Ta elektronika okolo je prostě fascinující. Není to čistě o štěstí nebo lokalitě, ale také je potřeba vědět, jak daný detektor funguje a jak ho správně nastavit v daných podmínkách.
 - Zároveň člověk objevuje historii různých míst a je třeba pro zvýšení šance dobrých nálezů vytipovat zajímavé lokality z historických pramenů (map, kronik...)
 - Našli jsme toho už mnoho... přes různé KUTRy (kusy traktorů), po X set let starou stříbrnou minci - což byl shodou okolností jeden z mých prvních nálezů (poslední foto).
 - Je to skvělý relax s nádechem tajemna a v zemi je toho ztraceno neuvěřitelně mnoho - prostřední foto cca 2.5kg nálezů za rok 2025.
@@ -69,7 +69,7 @@ header-includes:
 - Posledních pár měsíců jsem začal "recenzovat" filmy (a někdy taky hudbu). Proč? Miluju tyto věci, miluju je vnímat. A tak mě napadlo, proč to nějak neshrnout a nemít to jako zachycenou vzpomínku? Popřípadě někoho přivést k filmu/hudbě.
 - Obecně mám rád věci, u kterých si popřemýšlím. Ne jen něco, na co se kouknu (nebo si poslechnu) a hned to vypustím z hlavy. Převážně píšu v angličtině, ale českou tvorbu recenzuji v češtině. 
 - Myslím si, že mi to pomohlo vnímat věci více než jen povrchně. Také bych řekl, že mi to zlepšilo slovní zásobu. Hlavně nějakým způsobem myslet sám za sebe, nedělat si na nic názor bez toho, abych o tom nezjistil něco více.
-(Profily, kde zveřejňuji své recenze: [Letterboxd](https://letterboxd.com/wocisjr/), [RateYourMusic](https://rateyourmusic.com/~thoughtswithmehehe))
+- Profily, kde zveřejňuji své recenze: [Letterboxd](https://letterboxd.com/wocisjr/), [RateYourMusic](https://rateyourmusic.com/~thoughtswithmehehe)
 - Zatím nejdelší text, který jsem psal, je 16stránková [analýza alba "The Downward Spiral" od kapely Nine Inch Nails](https://github.com/wocisjr/ssps-portfolio/blob/main/documents/My_interpretation_of_The_Downward_Spiral.pdf)
 <!-- pagebreak -->
 
@@ -82,7 +82,7 @@ header-includes:
 
 ## Videa
 - Věnoval jsem se i natáčení vlastních videí a také si je sám stříhal. Samozřejmě, nebyla nijak skvělá co se kvality týče, ale v tu dobu mě hodně bavilo si s tím hrát a učit se nové věci ohledně tohoto oboru.
-- Před pár měsící jsem také pomáhal [kamarádovi](https://www.tiktok.com/@morallygray_?_r=1&_t=ZN-92dJFbKBXvy) s videi na Tiktoku/Instagramu. Za dobu, co jsem se tomu věnoval, jsem nastříhal cca 30 short-form videí.
+- Před pár měsíci jsem také pomáhal [kamarádovi](https://www.tiktok.com/@morallygray_?_r=1&_t=ZN-92dJFbKBXvy) s videi na Tiktoku/Instagramu. Za dobu, co jsem se tomu věnoval, jsem nastříhal cca 30 short-form videí.
 
 ## Hudební nástroje
 - Dřive jsem se učil na bicí. Vždy mě fascinovaly perkuse, rytmika. Obecně mám rád písničky, kde jsou perkuse jako dominatní hudební nástroj.

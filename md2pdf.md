@@ -1,7 +1,7 @@
 ## Pro převod markdown na pdf
 nainstalovat balíky
 ```
-sudo apt-get install pandoc texlive-latex-base texlive-latex-recommended ghostscript --no-install-recommends
+sudo apt-get install pandoc texlive-latex-base texlive-latex-recommended texlive-latex-extra ghostscript --no-install-recommends
 ```
 
 pro převod zavolat
